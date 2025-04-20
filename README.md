@@ -1,6 +1,6 @@
 # 📊 Nalan Şahin | Data Analyst & Database Specialist  
 
-Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with expertise in **SQL, MySQL, Power BI, Grafana, and Prometheus**. I specialize in **data analysis, database optimization, and performance monitoring** to help businesses make data-driven decisions.  
+Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with expertise in **SQL, MySQL,T-Sql, Power BI, Grafana, and Prometheus**. I specialize in **data analysis, database optimization, and performance monitoring** to help businesses make data-driven decisions.  
 
 ## 🏆 About Me  
 - 🎓 **Education:**  
@@ -16,7 +16,7 @@ Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with 
 
 ## 🚀 Technical Skills  
 💾 **Database Management & SQL:**  
-- **SQL | MySQL**  
+- **SQL | MySQL | T-SQL**  
 - **Stored Procedures, Triggers, Views, Indexing**  
 - **Database Performance Optimization & Query Tuning**  
 
@@ -36,10 +36,10 @@ Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with 
 - **JSON-Based Data Processing & API Integrations**  
 
 ## 📈 Featured Projects  
-🔹 **SQL-Based Business Performance Dashboard (Power BI & MySQL)**  
-🔹 **Real-Time Server Monitoring with Prometheus & Grafana**  
-🔹 **Database Optimization for High-Traffic Web Applications**  
-🔹 **Automated Data Analysis & Reporting System**  
+🔹 **SQL-Based Sales Dashboard (Power BI & SQL)**  
+🔹 **Database Security**  
+🔹 **QrCode Generator Web App**  
+🔹 **Uri Shortining Web App**  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalannnsahin&show_icons=true&theme=dark)  
