@@ -23,7 +23,13 @@ Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with 
 📊 **Data Analysis & Visualization:**  
 - **SQL for Data Analysis** (Aggregations, Joins, CTEs, Window Functions)  
 - **Power BI for Business Intelligence & Data Reporting**  
-- **Grafana & Prometheus for Real-Time System Monitoring**  
+- **Grafana & Prometheus for Real-Time System Monitoring**
+
+🧠 **Machine Learning & Python**
+- Python (pandas, NumPy, scikit-learn, NLTK, Streamlit)
+- Text Preprocessing & Feature Engineering
+- Sentiment & Intent Classification
+- Model Training, Evaluation & Visualization  
 
 🛠 **Monitoring & Performance Optimization:**  
 - **Database Health Monitoring & Query Performance Analysis**  
