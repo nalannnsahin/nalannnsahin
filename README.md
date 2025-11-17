@@ -5,10 +5,10 @@ Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with 
 ## 🏆 About Me  
 - 🎓 **Education:**  
   - **Associate Degree in Computer Programming**  
-  - **BSc in Management Information Systems (Ahmet Yesevi University, 1st Year)**  
+  - **BSc in Management Information Systems (Ahmet Yesevi University, 3st Year)**  
 
 - 💼 **Experience:**  
-  - **Over 10 years of experience** in **database management, SQL-based data analysis, and monitoring systems**.  
+  - **Over 15 years of experience** in **database management, SQL-based data analysis, and monitoring systems**.  
   - Expertise in **database performance optimization and query tuning**.  
   - Skilled in **data visualization and real-time monitoring using Power BI, Grafana, and Prometheus**.  
   - Proficient in **SQL and MySQL for data querying, structuring, and reporting**.  
@@ -23,10 +23,10 @@ Hi there! I'm **Nalan Şahin**, a **data analyst and database specialist** with 
 📊 **Data Analysis & Visualization:**  
 - **SQL for Data Analysis** (Aggregations, Joins, CTEs, Window Functions)  
 - **Power BI for Business Intelligence & Data Reporting**  
-- **Grafana & Prometheus for Real-Time System Monitoring**
+- **Grafana & Prometheus & Apache Kafka for Real-Time System Monitoring**
 
 🧠 **Machine Learning & Python**
-- Python (pandas, NumPy, scikit-learn, NLTK, Streamlit)
+- Python (pandas, NumPy, scikit-learn, NLTK, Streamlit, TensorFlow, DeepFace)
 - Text Preprocessing & Feature Engineering
 - Sentiment & Intent Classification
 - Model Training, Evaluation & Visualization  
